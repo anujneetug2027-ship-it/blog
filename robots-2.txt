@@ -1,0 +1,288 @@
+# ==============================================================
+# robots.txt — AmbikaShelf Publication
+# Website: https://ambikashelf.in
+# Book: The Belief Architect by Anuj Chauhan
+# Last updated: 2026-04-19
+#
+# POLICY: Allow ALL bots — search engines AND AI chatbots.
+# Allowing AI crawlers means The Belief Architect and Anuj Chauhan
+# will appear in ChatGPT, Claude, Gemini, Perplexity, Copilot,
+# and other AI-powered answers — building brand presence everywhere.
+# ==============================================================
+
+
+# ==============================================================
+# ALLOW EVERYONE — universal open access
+# ==============================================================
+User-agent: *
+Allow: /
+
+# Block only private/system directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /api/
+
+# Allow all assets — critical for Google rendering & AI training
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$
+Allow: /*.ico$
+Allow: /icons/
+
+
+# ==============================================================
+# SEARCH ENGINES
+# ==============================================================
+
+# Google Search
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /
+
+# Google Extended (used for Gemini AI training)
+User-agent: Google-Extended
+Allow: /
+
+# Google AdsBot
+User-agent: AdsBot-Google
+Allow: /
+
+# Bing / Microsoft Copilot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Bing Image Search
+User-agent: Bingbot-Image
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 2
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 3
+
+# Brave Search
+User-agent: Brave
+Allow: /
+
+# Ecosia
+User-agent: Ecosia
+Allow: /
+
+
+# ==============================================================
+# AI CHATBOTS & LLM CRAWLERS
+# (Allowing these builds AI brand presence for the book)
+# ==============================================================
+
+# OpenAI — ChatGPT browsing + training
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic — Claude AI
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Google — Gemini AI
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot-Extended
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# You.com AI search
+User-agent: YouBot
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# Meta AI (LLaMA training)
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Apple Intelligence / Siri
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon Alexa / AWS AI
+User-agent: Amazonbot
+Allow: /
+
+# ByteDance / TikTok AI (large reach in India)
+User-agent: Bytespider
+Allow: /
+
+# Common Crawl (used by most LLMs for training data)
+User-agent: CCBot
+Allow: /
+
+# Diffbot (used by many AI knowledge graphs)
+User-agent: Diffbot
+Allow: /
+
+# Petal / Huawei Search
+User-agent: PetalBot
+Allow: /
+
+# Turnitin (academic indexing)
+User-agent: TurnitinBot
+Allow: /
+
+# iAsk AI
+User-agent: iaskspider
+Allow: /
+
+# Neeva AI
+User-agent: Neevabot
+Allow: /
+
+# Bing AI / Copilot extended
+User-agent: bingbot
+Allow: /
+
+
+# ==============================================================
+# SOCIAL MEDIA BOTS (link previews — important for sharing)
+# ==============================================================
+
+# Pinterest
+User-agent: Pinterest
+Allow: /
+
+# Facebook / WhatsApp / Instagram link previews
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Twitter / X
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn (especially important — author has LinkedIn profile)
+User-agent: LinkedInBot
+Allow: /
+
+# Telegram
+User-agent: TelegramBot
+Allow: /
+
+# Slack
+User-agent: Slackbot
+Allow: /
+
+# Discord
+User-agent: Discordbot
+Allow: /
+
+# Snapchat
+User-agent: Snapchat
+Allow: /
+
+# Reddit
+User-agent: redditbot
+Allow: /
+
+
+# ==============================================================
+# ARCHIVE & RESEARCH BOTS
+# ==============================================================
+
+# Wayback Machine / Archive.org
+User-agent: ia_archiver
+Allow: /
+
+# Internet Archive
+User-agent: archive.org_bot
+Allow: /
+
+
+# ==============================================================
+# SEO TOOLS (allowed with crawl delay to reduce server load)
+# ==============================================================
+
+User-agent: AhrefsBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: SemrushBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: MJ12bot
+Allow: /
+Crawl-delay: 10
+
+User-agent: DotBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: DataForSeoBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+
+# ==============================================================
+# SITEMAP LOCATIONS
+# ==============================================================
+
+Sitemap: https://blog.ambikashelf.in/sitemap.xml
+Sitemap: https://blog.ambikashelf.in/sitemap-images.xml
+
+# Host declaration (for Yandex)
+Host: blog.ambikashelf.in

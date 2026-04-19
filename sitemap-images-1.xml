@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ==============================================================
+       IMAGE SITEMAP — AmbikaShelf Publication
+       The Belief Architect by Anuj Chauhan
+       Helps Google index all book cover and promotional images
+  ============================================================== -->
+
+  <url>
+    <loc>https://blog.ambikashelf.in/</loc>
+
+    <!-- Front Cover -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/front.png</image:loc>
+      <image:title>The Belief Architect — Front Cover by Anuj Chauhan</image:title>
+      <image:caption>The Belief Architect book — How Beliefs Shape Your Mind, Actions and Reality. Written by Anuj Chauhan. Published by AmbikaShelf Publication 2026. eBook ₹49 | Paperback ₹399.</image:caption>
+      <image:geo_location>India</image:geo_location>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Back Cover -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/back.png</image:loc>
+      <image:title>The Belief Architect — Back Cover by Anuj Chauhan</image:title>
+      <image:caption>Back cover of The Belief Architect by Anuj Chauhan, AmbikaShelf Publication. ISBN: 9798255729340.</image:caption>
+      <image:geo_location>India</image:geo_location>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- 3D Mockup 1 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup1</image:loc>
+      <image:title>The Belief Architect — 3D Book Mockup</image:title>
+      <image:caption>3D book mockup of The Belief Architect by Anuj Chauhan — self-help book about beliefs and mindset.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- 3D Mockup 2 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup2</image:loc>
+      <image:title>The Belief Architect — 3D Book Mockup 2</image:title>
+      <image:caption>3D book display of The Belief Architect — neuroplasticity and mindset book by Anuj Chauhan.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- 3D Mockup 3 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup3</image:loc>
+      <image:title>The Belief Architect — 3D Book Mockup 3</image:title>
+      <image:caption>The Belief Architect self-help book by Anuj Chauhan — available in eBook and paperback from AmbikaShelf Publication.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Author Photo -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/anuj</image:loc>
+      <image:title>Anuj Chauhan — Author of The Belief Architect</image:title>
+      <image:caption>Anuj Chauhan, Indian author and NEET aspirant, writer of The Belief Architect published by AmbikaShelf Publication.</image:caption>
+      <image:geo_location>India</image:geo_location>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 1 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page1.png</image:loc>
+      <image:title>The Belief Architect — Page 1 Preview</image:title>
+      <image:caption>Free preview page 1 of The Belief Architect by Anuj Chauhan — Introduction chapter.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 2 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page2.png</image:loc>
+      <image:title>The Belief Architect — Page 2 Preview</image:title>
+      <image:caption>Free preview page 2 of The Belief Architect by Anuj Chauhan.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 3 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page3.png</image:loc>
+      <image:title>The Belief Architect — Page 3 Preview</image:title>
+      <image:caption>Free preview page 3 of The Belief Architect — The Hidden Power of Belief chapter.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 4 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page4.png</image:loc>
+      <image:title>The Belief Architect — Page 4 Preview</image:title>
+      <image:caption>Free preview page 4 of The Belief Architect by Anuj Chauhan.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 5 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page5.png</image:loc>
+      <image:title>The Belief Architect — Page 5 Preview</image:title>
+      <image:caption>Free preview page 5 of The Belief Architect — neuroplasticity and belief chapter.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Page 6 -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/page6.png</image:loc>
+      <image:title>The Belief Architect — Page 6 Preview</image:title>
+      <image:caption>Free preview page 6 of The Belief Architect by Anuj Chauhan — last free page.</image:caption>
+      <image:license>https://ambikashelf.in/copyright</image:license>
+    </image:image>
+
+    <!-- Publisher Logo -->
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/ambikashelf.png</image:loc>
+      <image:title>AmbikaShelf Publication Logo</image:title>
+      <image:caption>AmbikaShelf Publication — Indian book publisher. Publisher of The Belief Architect by Anuj Chauhan.</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+
+  </url>
+
+</urlset>
