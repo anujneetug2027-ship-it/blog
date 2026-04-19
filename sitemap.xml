@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xsi:schemaLocation="
+    http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.google.com/schemas/sitemap-image/1.1
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- ============================================================
+       AMBIKASHELF.IN — SITEMAP
+       Book: The Belief Architect by Anuj Chauhan
+       Publisher: AmbikaShelf Publication
+       Last updated: 2026-04-19
+  ============================================================ -->
+
+  <!-- HOME PAGE -->
+  <url>
+    <loc>https://ambikashelf.in/</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/ambikashelf.png</image:loc>
+      <image:title>AmbikaShelf Publication — Official Website</image:title>
+      <image:caption>AmbikaShelf Publication logo</image:caption>
+    </image:image>
+  </url>
+
+  <!-- THE BELIEF ARCHITECT — MAIN BOOK PAGE (Highest Priority) -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/front.png</image:loc>
+      <image:title>The Belief Architect — Front Cover by Anuj Chauhan</image:title>
+      <image:caption>The Belief Architect book cover — How Beliefs Shape Your Mind, Actions and Reality. By Anuj Chauhan. Published by AmbikaShelf Publication.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/back.png</image:loc>
+      <image:title>The Belief Architect — Back Cover</image:title>
+      <image:caption>Back cover of The Belief Architect by Anuj Chauhan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup1</image:loc>
+      <image:title>The Belief Architect 3D Book Mockup 1</image:title>
+      <image:caption>3D mockup of The Belief Architect paperback by Anuj Chauhan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup2</image:loc>
+      <image:title>The Belief Architect 3D Book Mockup 2</image:title>
+      <image:caption>3D mockup of The Belief Architect eBook by Anuj Chauhan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/mocup3</image:loc>
+      <image:title>The Belief Architect 3D Book Mockup 3</image:title>
+      <image:caption>3D mockup of The Belief Architect by Anuj Chauhan — AmbikaShelf Publication</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/anuj</image:loc>
+      <image:title>Anuj Chauhan — Author of The Belief Architect</image:title>
+      <image:caption>Anuj Chauhan, author of The Belief Architect, published by AmbikaShelf Publication</image:caption>
+    </image:image>
+  </url>
+
+  <!-- BOOK PAGE — ABOUT AUTHOR ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#about-author</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- BOOK PAGE — CHAPTERS ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#chapters</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- BOOK PAGE — REVIEWS ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#reviews</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- BOOK PAGE — FREE PREVIEW ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#read-preview</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- BOOK PAGE — BUY ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#get-book</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- BOOK PAGE — CONTACT ANCHOR -->
+  <url>
+    <loc>https://ambikashelf.in/the-belief-architect#contact</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- BOOKS CATALOG PAGE (future) -->
+  <url>
+    <loc>https://ambikashelf.in/books</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- AUTHOR PAGE (future) -->
+  <url>
+    <loc>https://ambikashelf.in/authors/anuj-chauhan</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://ambikashelf.in/icons/anuj</image:loc>
+      <image:title>Anuj Chauhan — Indian Author, NEET Aspirant, The Belief Architect</image:title>
+      <image:caption>Author profile photo of Anuj Chauhan</image:caption>
+    </image:image>
+  </url>
+
+  <!-- AMBIKASHELF LIBRARY (eBook store) -->
+  <url>
+    <loc>https://ambikashelf.in/library</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CONTACT PAGE (future) -->
+  <url>
+    <loc>https://ambikashelf.in/contact</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ABOUT PAGE (future) -->
+  <url>
+    <loc>https://ambikashelf.in/about</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
